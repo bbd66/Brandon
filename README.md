@@ -16,7 +16,7 @@
 ## 🚀 Featured Projects
 ### 1. Music-Driven Long-Sequence Dance Generation for Digital Humans
 - Developed a semi-implicit diffusion model for high-fidelity music-to-motion synthesis
-- **Status**: SCI TOP Journal Under Review
+- **Status**: SCI Journal Under Review
 - Tech Stack: PyTorch, Diffusion Model, Multimodal Fusion
 
 ### 2. Yoga Instructor Robot System
