@@ -59,15 +59,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📊 GitHub Stats
-![Bowen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=radical&hide_border=true)
+
 
 ## 📫 Contact Me
 - 📧 Email: 202330552511@mail.scut.edu.cn
-- 💼 LinkedIn: https://www.linkedin.com/in/bo-wen-deng-xxx (替换成你的领英链接)
-- 🧑‍💻 GitHub: https://github.com/你的GitHub用户名
-- 📝 Google Scholar: https://scholar.google.com/citations?user=xxx (科研党补充)
+- 🧑‍💻 GitHub: https://github.com/bbd66
+- 📝 Kaggle: https://www.kaggle.com/dbwacjglcdjb
 
 ---
 
