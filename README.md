@@ -19,8 +19,8 @@
 - **Status**: SCI Journal Under Review
 - Tech Stack: PyTorch, Diffusion Model, Multimodal Fusion
 
-### 2. Yoga Instructor Robot System
-- Built a full-stack robot system with LLM, computer vision pose estimation, and multimodal interaction
+### 2. Yoga Instructor Digital Humans System
+- Built a full-stack digital H、humans system with LLM, computer vision pose estimation, and multimodal interaction
 - Awarded **2nd Prize in DingJia Cup National College Student Competition**
 - Tech Stack: ROS2, OpenCV, YOLO, LLM, Python/C++
 
