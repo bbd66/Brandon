@@ -64,7 +64,7 @@
 ## 📫 Contact Me
 - 📧 Email: 202330552511@mail.scut.edu.cn
 - 🧑‍💻 GitHub: https://github.com/bbd66/Brandon
-- 📝 Kaggle: https://www.kaggle.com/denhwen
+- 📝 Kaggle: https://www.kaggle.com/abdbrandon
 
 ---
 
