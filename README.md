@@ -64,7 +64,7 @@
 ## 📫 Contact Me
 - 📧 Email: 202330552511@mail.scut.edu.cn
 - 🧑‍💻 GitHub: https://github.com/bbd66
-- 📝 Kaggle: https://www.kaggle.com/dbwacjglcdjb
+- 📝 Kaggle: https://www.kaggle.com/denhwen
 
 ---
 
