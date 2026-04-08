@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Brandon (邓博文)
+## 👋 Hi, I'm Brandon (Bo-Wen Deng)
 ### 🎓 Software Engineering Undergraduate @ South China University of Technology
 ### 🤖 AI Researcher | Digital Human | Robotics | Embodied Intelligence
 
