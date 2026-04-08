@@ -7,7 +7,7 @@
 ---
 
 ## 🎓 Education
-- **South China University of Technology (SCUT)** | Software Engineering | 2023 - 2027 (Expected)
+- **South China University of Technology (SCUT)** | Software Engineering | 2023 - 2028 (Expected)
 - **Technical University of Munich (TUM)** | HPC & Embodied Intelligence | Summer Exchange 2025
 
 ## 🔬 Research Interests
