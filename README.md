@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Brandon (Bo-Wen Deng)
+## 👋 Hi, I'm Keats (Bo-Wen Deng)
 ### 🎓 Software Engineering Undergraduate @ South China University of Technology
 ### 🤖 AI Researcher | Digital Human | Robotics | Embodied Intelligence
 
